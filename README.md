@@ -9,7 +9,7 @@
 <p> - 🌱 Estudio en la escuela proa experimental con enfasis en Tics</p>
 <p>- 💞️ Estoy en Interact, en el consejo de jovenes, en Corazones Encendidos</p>
 <p>- 📫 Me gusta Cantar, dibujar, hacer manualidades, tocar el piano la guitarra</p>
-<p>- 😄 Me dicen kiari, kiaris, kia, koko,koto, kiaruchi,chiarita, kiarita,kiki, kiarot </p>a 
+<p>- 😄 Me dicen kiari, kiaris, kia, koko,koto, kiaruchi,chiarita, kiarita,kiki, kiarota </p> 
 <p>- ⚡ En el futuro me voy a estudiar un profesorado en educacion primaria</p>
 
 </body> 
