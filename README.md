@@ -1,7 +1,8 @@
 <html>
   <head>
   </head>
-  <body> <title><h1> Soy @Kiara202 </h1></title>
+  <body> 
+    <h1> Soy @Kiara202 </h1>
     
 <p>- 👋 Hola, soy @kiara202</p>
 <p>- 👀 Tengo 17 años </p>
